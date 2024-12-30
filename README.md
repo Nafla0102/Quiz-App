@@ -38,6 +38,7 @@ https://nafla0102.github.io/Quiz-App/
 
 📸 Screenshot
 
+![image](https://github.com/user-attachments/assets/30c9b6a9-d15d-4748-ad67-7b3d2315f356)
 
 
 ✍️ Author
