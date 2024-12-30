@@ -33,9 +33,8 @@ Follow these steps to run the project locally:
    git clone https://github.com/fathima-nafla/quiz-app.git
 
 🌐 Live Demo
+https://nafla0102.github.io/Quiz-App/
 
-
-🔗 Quiz App Live Demo
 
 📸 Screenshot
 
